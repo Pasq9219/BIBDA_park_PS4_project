@@ -15,7 +15,7 @@ I downloaded some data from PS store using a scraper and made some data analysis
 
 pip3 install ***tk*** #This is the library to build the GUI
 
-pip3 install ***Pillow*** This is the library to display images in the GUI
+pip3 install ***Pillow*** #This is the library to display images in the GUI
 
 
 Download together with the code all images in the "Immagini_copertina.zip" and unzip them on your local PC. Download also logo.ico and play.png images and pay attention to put the correct path to these elements in your code downloaded.
