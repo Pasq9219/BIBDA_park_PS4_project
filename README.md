@@ -10,4 +10,6 @@ I supposed to be a data scientist from an amusement park and my manager asked me
 I downloaded some data from PS store using a scraper and made some data analysis using SQL and Python and Data Visualization throught TABLEAU. Moreover I created a minimal GUI to interact with park clients to have fun.
 
 
+Notes: to make the GUI working, download together with the code all images in the "Immagini_copertina.zip" and unzip them on your local PC. Download also logo.ico and play.png images.
+
 
