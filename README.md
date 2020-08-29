@@ -14,6 +14,7 @@ I downloaded some data from PS store using a scraper and made some data analysis
 ***Notes***: to make the GUI working be sure you have installed on your PC these 2 libraries:
 
 pip3 install ***tk*** #This is the library to build the GUI
+
 pip3 install ***Pillow*** This is the library to display images in the GUI
 
 
